@@ -8,8 +8,6 @@ Time spent: 7 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/site-program-prework
 
-(insert your link here, should start with https://glitch.com...)
-
 ## Required Functionality
 
 The following **required** functionality is complete:

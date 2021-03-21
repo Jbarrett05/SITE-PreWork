@@ -6,7 +6,7 @@ Submitted by: Jaheim Barrett
 
 Time spent: 7 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/site-program-prework
+Link to project: https://glitch.com/~site-program-prework
 
 ## Required Functionality
 
@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![](https://i.imgur.com/DsFELzm.gif)
 ![](https://i.imgur.com/wssoKrl.gif)
 ![](https://i.imgur.com/3PxLATj.gif)
